@@ -1,0 +1,7 @@
+h1. ColladaLoader
+
+three.js ColladaLoader
+
+Extracted from https://github.com/tparisi/Vizi/blob/master/engine/libs/three.js.r68/loaders/ColladaLoader.js
+
+Now working with three.js r87.
